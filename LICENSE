@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2025 Mason Li Yu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This license does not apply to the Oura OpenAPI spec included in this repository,
+which is governed by Section 11 of https://cloud.ouraring.com/legal/api-agreement,
+copied here in its current version at the time of writing this license.
+
+Oura API Agreement Section 11:
+
+You agree that Oura and its affiliates and licensors retain all worldwide right, title and interest in and to the Oura API Materials, Oura Data, Oura Marks and the Oura Platform, including, without limitation, all intellectual property rights therein. Any rights not expressly granted herein are prohibited and reserved.
+You understand that Oura may currently or in the future develop products and services that may be similar to or compete with your Developer Applications. Nothing in this Agreement shall in any way restrict Oura from pursuing any business activities or from entering into any agreement with any other person or company.
+In the event that you choose to provide Oura with feedback, suggestions or comments regarding the Oura API Materials or the Oura Platform, or your use thereof, you agree that Oura will be free to use, copy, modify, create derivative works, distribute, publicly display, publicly perform, grant sublicenses to, and otherwise exploit in any manner such feedback, suggestions or comments, for any and all purposes, with no obligation of any kind to you.
+To facilitate your Oura API Materials integration, Oura may make certain SDK(s) and/or libraries available to you under a separate open source license. You agree that any Oura API integration facilitated with such open source SDK(s) and/or libraries remains subject to this Agreement.
+You hereby grant to Oura a paid-up, royalty-free, non-exclusive, worldwide, transferable, sublicensable, right and license, under all applicable intellectual property rights, for Oura’s marketing and promotional purposes to: (a) use, perform, make available, display to the public, reproduce your Developer Application and your integration of the Oura API Materials and (b) use your name, likeness, or brand (which includes all your trademarks, service marks, logos, brand names, or trade names) (“Your Marks”) to the extent it is incorporated into your Developer Application. Following the termination of this Agreement and upon written request from you, Oura shall make commercially reasonable efforts, as determined in its sole discretion, to remove references to your Develop Application and any of Your Marks from the Oura website.
+You represent and warrant that you have all rights, including all copyright, trademark, and other intellectual property rights, in the Developer Applications necessary to offer the Developer Applications to end users and to grant the license described in Section 11 to Oura in this Agreement.
+
+2021 Oura Health Oy. All Rights Reserved
