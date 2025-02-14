@@ -9,7 +9,10 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.13, <4.0"
 dependencies = [
-    "oura-api-documentation-client @ file:///Users/requious/Projects/python/ourametry-py/api/oura"
+    "oura-api-documentation-client @ file:///Users/requious/Projects/python/ourametry-py/api/oura",
+    "django (>=5.1.6,<6.0.0)",
+    "djangorestframework (>=3.15.2,<4.0.0)",
+    "httpx (>=0.28.1,<0.29.0)"
 ]
 
 

@@ -1,3 +1,4 @@
 bin/**
 **/.env
 db*
+ourametry/__pycache__
